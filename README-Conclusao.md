@@ -9,7 +9,7 @@
 ## O que eu já sei sobre os assuntos que Foram abordados nesse módulo?
 
 - **Node.js e Typescript:**
-    Node.js: Plataforma para executar código JavaScript no servidor.
+    <br><b>Node.js:</b> Plataforma para executar código JavaScript no servidor.
     <br><b>Typescript:</b> Superset do JavaScript que adiciona tipagem estática e outras funcionalidades.
 
 - **API (Application Programming Interface):**
